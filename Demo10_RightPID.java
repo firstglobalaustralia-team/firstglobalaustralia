@@ -1,3 +1,29 @@
+/**
+ * ------------------------------------------------------------
+ *  FGC Team Australia 2025  |  FIRST Global Challenge
+ * ------------------------------------------------------------
+ *  Project: FGC101 - Java Demo Series
+ *  File:    Demo10_RightPID.java
+ *
+ *  Description:
+ *  This demo is part of the FGC101 video series created by
+ *  FGC Team Australia 2025. Our goal is to help rookie teams
+ *  understand programming logic and competition strategy
+ *  through short, simple examples.
+ *
+ *  Playlist: https://www.youtube.com/playlist?list=PL-29lId0PJrVEo0yJyprGheyRtR-ReDET
+ *  Author:   Muyao Zhang (from FGC Team Australia)
+ *  Date:     October 2025
+ *
+ *  Notes:
+ *  - We currently provide around 15 demo programs.
+ *  - These Java demos are not continuously updated.
+ *  - For detailed explanations, please refer to the FGC101 videos.
+ *
+ *  © FGC Team Australia 2025 | Educational Use Only
+ * ------------------------------------------------------------
+ */
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
@@ -148,3 +174,4 @@ public class Demo10_RightPID extends LinearOpMode {
         }
     }
 }
+
